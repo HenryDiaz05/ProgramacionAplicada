@@ -8,7 +8,7 @@ def intervalo():
 def primo(n):
     a = 2
     primo = True
-    while (a < n):
+    while (a < n+1):
         for i in range(2, a):
             if (a % i == 0):
                 primo = False
