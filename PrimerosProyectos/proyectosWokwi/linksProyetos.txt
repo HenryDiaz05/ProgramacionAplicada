@@ -1,1 +1,10 @@
-
+Prender led:
+	https://wokwi.com/projects/375038970303977473
+Prender un led con un boton:
+	https://wokwi.com/projects/374515876870281217
+Barrido de led sin funciones.
+	https://wokwi.com/projects/375039478282472449
+Barrido de leds con funciones:
+	https://wokwi.com/projects/374064075963740161
+Sensor de temperatura analogico:
+	https://wokwi.com/projects/374519895791769601
