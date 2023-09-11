@@ -1,5 +1,4 @@
-#################LISTAS####################
-###########################################
+
 my_lista = ['Rojo', 'Azul', 'Amarillo', 'Naranja', 'Violeta', 'Verde']
 #input()
 
